@@ -1,4 +1,3 @@
-@@ -0,0 +1,11 @@
 function moveRandomEl(elm) {
     elm.style.position = "absolute";
     elm.style.top = Math.floor(Math.random() * 90 + 5) + "%";
